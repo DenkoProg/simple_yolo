@@ -1,0 +1,42 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore model files (like large YOLO models)
+*.pt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore compiled Python files
+*.so
+
+# Ignore Python dependency management files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Python egg files
+*.egg-info/
+dist/
+build/

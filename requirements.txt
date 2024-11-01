@@ -1,0 +1,9 @@
+Flask
+flask-httpauth
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+Pillow
+werkzeug
