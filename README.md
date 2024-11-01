@@ -7,6 +7,10 @@ This project provides a REST API that accepts base64-encoded images, detects obj
 - Returns annotated images with bounding boxes, labels, and probabilities.
 - Basic authentication is implemented to restrict access.
 
+### Overview
+![images (2)](https://github.com/user-attachments/assets/7db416b8-5fd7-42cf-ab62-6497039c2bee)
+![завантаження (4)](https://github.com/user-attachments/assets/9be4681a-73cb-43ad-b0c9-e00f878c8f29)
+
 ### Project Structure
 ```plaintext
 .
